@@ -1,0 +1,6 @@
+mss
+opencv-python
+numpy
+rapidocr-onnxruntime
+keyboard
+pywin32; sys_platform == "win32"
